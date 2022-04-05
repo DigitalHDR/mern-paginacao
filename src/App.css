@@ -13,3 +13,13 @@
   display: flex;
   justify-content: space-between;
 }
+
+.paginationButton {
+  background-color: white;
+  border: 1px solid black;
+  margin: 5px;
+}
+
+.paginationButton:hover {
+  background-color: lightblue;
+}
